@@ -1,3 +1,1 @@
-<h1 align="center"> Hi there, I'm Aleksei
-<h2 align="center"> MSU post-graduate student, python developer
-<h3 align="center"> Currently studying Python, data science, ml
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Aleksei;MSU+post-graduate+student,+python+developer;Currently+studying+Pythom,+data+science,+ml)](https://git.io/typing-svg)
