@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Aleksei;MSU+post-graduate+student,+python+developer;Currently+studying+Pythom,+data+science,+ml)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&color=30DFD4&background=23FFBE00&center=true&multiline=true&width=1200&height=200&lines=Hi%2C+I'm+Aleksei;MSU+post-graduate+student;Currently+studying+Python%2C+data+science%2C+ml)](https://git.io/typing-svg)
